@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Discord and Minecraft Development**
 
-- 📬 You can reach me on **Discord Willi#6392** or on my **Email me@willi.gq**
+- 📬 You can reach me on **Discord Willi#6392**
 
 - 🔗 Link Tree: https://www.willi.gq
  ## Stats
