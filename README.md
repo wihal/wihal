@@ -1,7 +1,7 @@
 ## Hello 👋
 My name is Willi, I am a guy from from Germany 🚩who is **interested in Minecraft Development 👀** ,but i actually only write scripts.
-I only program when I feel like it. 
-If you are interested in what I am working on, **have a look at my repositories**.
+I only program when I have time and feel like it. 
+If you are interested in what I am working on, **have a look at my repositories📙**.
 
 I think that was all, if you found a mistake or want to know more about me then **write me via Discord Willi#6392 📬**
 
