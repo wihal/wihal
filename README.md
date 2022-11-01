@@ -1,15 +1,9 @@
 ## Hello 👋
+
 My name is Willi, I am a guy from from Germany 🚩who is **interested in App and Minecraft Development 👀**, but i actually only write scripts.
 If you are interested in what I am working on, **have a look at my repositories📙**.
 
 I think that was all, if you found a mistake or want to know more about me then **write me via Discord Willi#6392 📬**
-
- ## Stats
-- [![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
-
-- ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m790700007-530ff8d8d02185f9e9da745d?color=red&label=BroBot)
-
-- ![Discord](https://img.shields.io/discord/956277474201829478?color=blue&label=Discord%20Server)
 
 ## Languages 🗨️
 
@@ -54,5 +48,6 @@ I think that was all, if you found a mistake or want to know more about me then 
  ## GitHub Stats 📊 
 ![](https://github-readme-stats.vercel.app/api?username=aahwilli&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aahwilli&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
 
 
