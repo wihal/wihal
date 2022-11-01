@@ -1,6 +1,5 @@
 ## Hello 👋
-My name is Willi, I am a guy from from Germany 🚩who is **interested in Minecraft Development 👀** ,but i actually only write scripts.
-I only program when I have time and feel like it. 
+My name is Willi, I am a guy from from Germany 🚩who is **interested in App and Minecraft Development 👀**, but i actually only write scripts.
 If you are interested in what I am working on, **have a look at my repositories📙**.
 
 I think that was all, if you found a mistake or want to know more about me then **write me via Discord Willi#6392 📬**
@@ -12,8 +11,8 @@ I think that was all, if you found a mistake or want to know more about me then 
 
 - ![Discord](https://img.shields.io/discord/956277474201829478?color=blue&label=Discord%20Server)
 
-## Languages
- 
+## Languages 🗨️
+
 <!--center-->
 <p align="center">
  <!--Python-->
@@ -23,8 +22,8 @@ I think that was all, if you found a mistake or want to know more about me then 
  <!--CSS-->
  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
  </p>
- 
-## Tools
+
+## Tools 🔧
 <!--center-->
 <p align="center">
  <!--Gimp-->
@@ -42,7 +41,7 @@ I think that was all, if you found a mistake or want to know more about me then 
  </p>
 
 
-## Learning
+## Learning 🏫
 <!--center-->
 <p align="center">
  <!--Java-->
@@ -50,3 +49,10 @@ I think that was all, if you found a mistake or want to know more about me then 
  <!--Blender-->
  <a href="https://en.wikipedia.org/wiki/Blender_(Software)" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
  </p>
+ 
+ 
+ ## GitHub Stats 📊 
+![](https://github-readme-stats.vercel.app/api?username=aahwilli&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aahwilli&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
