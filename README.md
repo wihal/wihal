@@ -52,6 +52,9 @@ I think that was all, if you found a mistake or want to know more about me then 
  
  
  ## GitHub Stats 📊 
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
 
