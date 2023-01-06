@@ -51,7 +51,7 @@ I think that was all, if you found a mistake or want to know more about me then 
  </p>
  
  
- ## GitHub Stats 📊 
+ ## Development statistics 📊 
  
 <!--START_SECTION:waka-->
 
