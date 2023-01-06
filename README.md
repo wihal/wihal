@@ -56,14 +56,14 @@ I think that was all, if you found a mistake or want to know more about me then 
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 14 August 2021 - To: 04 January 2023
 
-Java     3 hrs 17 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   56.08 %
-Python   1 hr 22 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   23.52 %
-CSS      35 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-HTML     29 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-INI      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Python                     22 hrs 5 mins   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   29.63 %
+HTML                       22 hrs 3 mins   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   29.59 %
+PHP                        9 hrs 8 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+CSS                        5 hrs 14 mins   ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+JavaScript                 3 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Java                       3 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 ```
 
 <!--END_SECTION:waka-->
