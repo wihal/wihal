@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Willi Alexander
-- I am a guy from from Germany🚩
-- Interested in App and Game Development 👀 
+# 👋 Hi there!
+- Germany🚩
+- Interested in App, Web and Game Development 👀 
 - If you are interested in what I am working on, **have a look at my repositories📙**.
 - Don't hold back just ask me.
 
