@@ -56,7 +56,7 @@ I think that was all, if you found a mistake or want to know more about me then 
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2023 - To: 05 September 2023
+From: 07 August 2023 - To: 06 September 2023
 
 Python       1 hr 11 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.23 %
 JavaScript   15 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.79 %
