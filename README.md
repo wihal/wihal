@@ -66,8 +66,8 @@ ca65 assembler   2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
  ## Other profiles 🛤️
-[![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
-[![leetcode - wihal](https://img.shields.io/static/v1?label=leetcode&message=wihal&color=orange&logo=leetcode&logoColor=orange)](https://leetcode.com/wihal/)
-[![sololearn - wihal](https://img.shields.io/badge/sololearn-willi-blue?logo=sololearn)](https://www.sololearn.com/profile/22731064)
-[![gitlab - wihal](https://img.shields.io/badge/gitlab-wihal-orange?logo=gitlab)](https://gitlab.com/wihal)
-[![replit - wihal](https://img.shields.io/badge/gitlab-wihal-white?logo=replit&logoColor=white)](https://replit.com/@wihal)
+- [![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
+- [![sololearn - wihal](https://img.shields.io/badge/sololearn-willi-blue?logo=sololearn)](https://www.sololearn.com/profile/22731064)
+- [![leetcode - wihal](https://img.shields.io/static/v1?label=leetcode&message=wihal&color=orange&logo=leetcode&logoColor=orange)](https://leetcode.com/wihal/)
+- [![gitlab - wihal](https://img.shields.io/badge/gitlab-wihal-orange?logo=gitlab)](https://gitlab.com/wihal)
+- [![replit - wihal](https://img.shields.io/badge/replit-wihal-white?logo=replit&logoColor=white)](https://replit.com/@wihal)
