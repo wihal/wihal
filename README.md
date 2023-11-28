@@ -54,7 +54,7 @@ I think that was all, if you found a mistake or want to know more about me then 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2023 - To: 25 November 2023
+From: 27 October 2023 - To: 26 November 2023
 
 Python       17 hrs 46 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.67 %
 HTML         5 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.86 %
