@@ -1,10 +1,7 @@
-# 👋 Hi there!
+# 👋 About me
 - Germany🚩
 - Interested in App, Web and Game Development 👀 
 - If you are interested in what I am working on, **have a look at my repositories📙**.
-- Don't hold back just ask me.
-
-I think that was all, if you found a mistake or want to know more about me then **write me via Discord: chatkontrolle 📬**
 
 ## Languages 🗨️
 
