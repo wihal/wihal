@@ -40,30 +40,12 @@ I think that was all, if you found a mistake or want to know more about me then 
  <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/gitlab-Icon.svg" alt="Gitlab" width="40" height="40"/> </a>
  </p>
 
-
 ## Learning/Interested 🏫
 <!--center-->
 <p align="center">
  <!--Java-->
  <a href="https://en.wikipedia.org/wiki/Java_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/java-Icon.svg" alt="java" width="40" height="40"/> </a>
  </p>
- 
- 
- ## Development statistics 📊 
- 
-<!--START_SECTION:waka-->
-
-```txt
-From: 01 November 2023 - To: 01 December 2023
-
-Python       16 hrs 7 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.56 %
-HTML         5 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.42 %
-JavaScript   46 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.19 %
-JSON         20 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.42 %
-Text         20 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.40 %
-```
-
-<!--END_SECTION:waka-->
 
  ## Other profiles 🛤️
 - [![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
