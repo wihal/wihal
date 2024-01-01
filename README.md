@@ -1,7 +1,10 @@
 # 👋 About me
+![](https://komarev.com/ghpvc/?username=wihal)
 - Germany🚩
 - Interested in App, Web and Game Development 👀 
 - If you are interested in what I am working on, **have a look at my repositories📙**.
+
+
 
 ## Languages 🗨️
 
