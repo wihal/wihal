@@ -1,5 +1,7 @@
 # 👋 About me
-![](https://komarev.com/ghpvc/?username=wihal)
+![](https://komarev.com/ghpvc/?username=wihal) 
+![](https://img.shields.io/github/stars/wihal?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fwihal)
+
 - Germany🚩
 - Interested in App, Web and Game Development 👀 
 - If you are interested in what I am working on, **have a look at my repositories📙**.
