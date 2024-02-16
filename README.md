@@ -18,8 +18,10 @@
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/html5-Icon.svg" alt="HTML5" width="40" height="40"/> </a>
  <!--CSS-->
  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/css3-Icon.svg" alt="CSS" width="40" height="40"/> </a>
- <!--Java-->
-<a href="https://de.wikipedia.org/wiki/Java_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/java-Icon.svg" alt="CSS" width="40" height="40"/> </a>
+  <!--Javascript-->
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/javascript.svg" alt="CSS" width="40" height="40"/> </a>
+  <!--Java-->
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/java-Icon.svg" alt="CSS" width="40" height="40"/> </a>
  </p>
 
 ## Tools 🔧
@@ -44,6 +46,8 @@
 ## Learning/Interested 🏫
 <!--center-->
 <p align="center">
+  <!--Javascript-->
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/javascript.svg" alt="CSS" width="40" height="40"/> </a>
  <!--Java-->
  <a href="https://en.wikipedia.org/wiki/Java_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/java-Icon.svg" alt="java" width="40" height="40"/> </a>
  </p>
