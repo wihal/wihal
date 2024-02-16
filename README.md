@@ -43,7 +43,7 @@
  <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/gitlab-Icon.svg" alt="Gitlab" width="40" height="40"/> </a>
  </p>
 
-## Learning/Interested 🏫
+## Learning 🏫
 <!--center-->
 <p align="center">
   <!--Javascript-->
