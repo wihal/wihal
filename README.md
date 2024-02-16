@@ -13,34 +13,34 @@
 <!--center-->
 <p align="center">
  <!--Python-->
- <a href="https://en.wikipedia.org/wiki/Python_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/python-Icon.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Python_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="./icons/python-Icon.svg" alt="python" width="40" height="40"/> </a>
  <!--HTML-->
- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/html5-Icon.svg" alt="HTML5" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="./icons/html5-Icon.svg" alt="HTML5" width="40" height="40"/> </a>
  <!--CSS-->
- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/css3-Icon.svg" alt="CSS" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer"> <img src="./icons/css3-Icon.svg" alt="CSS" width="40" height="40"/> </a>
   <!--Javascript-->
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/javascript.svg" alt="CSS" width="40" height="40"/> </a>
   <!--Java-->
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/java-Icon.svg" alt="CSS" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img src="./icons/java-Icon.svg" alt="CSS" width="40" height="40"/> </a>
  </p>
 
 ## Tools 🔧
 <!--center-->
 <p align="center">
  <!--Gimp-->
- <a href="https://en.wikipedia.org/wiki/GIMP" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/gimp-Icon.svg" alt="Gimp" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/GIMP" target="_blank" rel="noreferrer"> <img src="./icons/gimp-Icon.svg" alt="Gimp" width="40" height="40"/> </a>
  <!--Inkscape-->
- <a href="https://en.wikipedia.org/wiki/Inkscape" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/inkscape-Icon.svg" alt="Inkscape" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Inkscape" target="_blank" rel="noreferrer"> <img src="./icons/inkscape-Icon.svg" alt="Inkscape" width="40" height="40"/> </a>
  <!--Visual Studio Code-->
- <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/vscode-Icon.svg" alt="VSCODE" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer"> <img src="./icons/vscode-Icon.svg" alt="VSCODE" width="40" height="40"/> </a>
  <!--PyCharm-->
- <a href="https://en.wikipedia.org/wiki/PyCharm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/PyCharm" target="_blank" rel="noreferrer"> <img src="./icons/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
   <!--IntelliJ-->
- <a href="https://de.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/IntelliJ-Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
+ <a href="https://de.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank" rel="noreferrer"> <img src="./icons/IntelliJ-Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
  <!--Github-->
- <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/github-Icon.svg" alt="Github" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"> <img src="./icons/github-Icon.svg" alt="Github" width="40" height="40"/> </a>
  <!--Gitlab-->
- <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/gitlab-Icon.svg" alt="Gitlab" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank" rel="noreferrer"> <img src="./icons/gitlab-Icon.svg" alt="Gitlab" width="40" height="40"/> </a>
  </p>
 
 ## Learning 🏫
@@ -49,7 +49,7 @@
   <!--Javascript-->
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/javascript.svg" alt="CSS" width="40" height="40"/> </a>
  <!--Java-->
- <a href="https://en.wikipedia.org/wiki/Java_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wihal/wihal/main/icons/java-Icon.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Java_(Programmiersprache)" target="_blank" rel="noreferrer"> <img src="./icons/java-Icon.svg" alt="java" width="40" height="40"/> </a>
  </p>
 
  ## Other profiles 🛤️
