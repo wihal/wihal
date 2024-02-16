@@ -53,3 +53,4 @@
 - [![leetcode - wihal](https://img.shields.io/static/v1?label=leetcode&message=wihal&color=orange&logo=leetcode&logoColor=orange)](https://leetcode.com/wihal/)
 - [![gitlab - wihal](https://img.shields.io/badge/gitlab-wihal-orange?logo=gitlab)](https://gitlab.com/wihal)
 - [![replit - wihal](https://img.shields.io/badge/replit-wihal-white?logo=replit&logoColor=white)](https://replit.com/@wihal)
+- [![codepen - wihal](https://img.shields.io/badge/CodePen-wihal-white?logo=codepen&logoColor=white)](https://codepen.io/wihal)
